@@ -1,0 +1,3 @@
+2025-08-11 17:39:23,950 - data_ingestion - DEBUG - Data Loaded successfully from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-08-11 17:39:23,961 - data_ingestion - DEBUG - Data preprocessing done 
+2025-08-11 17:39:24,022 - data_ingestion - DEBUG - Data saved successfully to ./data\raw
